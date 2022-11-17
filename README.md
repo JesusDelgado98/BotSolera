@@ -1,0 +1,2 @@
+# BotSolera
+Bot de Solera
